@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Monserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&display=swap");
 
 html{
   font-size: 62.5%;
@@ -113,4 +113,13 @@ footer{
 }
 .button:hover{
   border:  0.1rem #808080 solid;
+}
+
+/*Filter*/
+.filter{
+  display: flex;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: .1rem #c0c0c0 solid;
+  justify-content: space-between;
 }
